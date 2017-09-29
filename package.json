@@ -1,0 +1,9 @@
+{
+  "name": "add-test",
+  "version": "1.0.0",
+  "description": "this is a test",
+  "main": "index.js",
+  "repository": "https://github.com/JKLeGend/add-test.git",
+  "author": "jukai.zhang <jukai.zhang@rea-group.com>",
+  "license": "MIT"
+}
